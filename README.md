@@ -5,9 +5,16 @@ I'm a Fullstack developer based on Iran.
 ![JavaScript](https://img.shields.io/badge/javascript-%23F1F523.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-Donating BTC: bc1qksa7p5h6cwx5l94pdpdmaurg5u7yaj3a6sl42e
+## Github state
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samtheory&show_icons=true&theme=merko )
 
-Donating LTC: ltc1qjm2ltpdrc0ghecgdzsrx5qdyrxdwpsxtejv6vx
+## Flutter Pined Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samtheory&repo=flutter_uikit_true_power&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+## Donationg
+BTC: bc1qksa7p5h6cwx5l94pdpdmaurg5u7yaj3a6sl42e
+
+LTC: ltc1qjm2ltpdrc0ghecgdzsrx5qdyrxdwpsxtejv6vx
 <!--
 **samtheory/samtheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

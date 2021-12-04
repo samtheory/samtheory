@@ -9,7 +9,7 @@ I'm a Fullstack developer based on Iran.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samtheory&show_icons=true&theme=merko )
 
 ## Flutter Pined Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samtheory&repo=flutter_uikit_true_power&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samtheory&repo=flutter_uikit_true_power&show_icons=true&theme=merko)](https://github.com/samtheory/flutter_uikit_true_power)
 
 ## Donationg
 BTC: bc1qksa7p5h6cwx5l94pdpdmaurg5u7yaj3a6sl42e

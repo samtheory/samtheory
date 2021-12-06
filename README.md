@@ -11,10 +11,10 @@ I'm a Fullstack developer based on Iran.
 ## Flutter Pined Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samtheory&repo=flutter_uikit_true_power&show_icons=true&theme=merko)](https://github.com/samtheory/flutter_uikit_true_power)
 
-## Donationg
+<!-- ## Donationg
 BTC: bc1qksa7p5h6cwx5l94pdpdmaurg5u7yaj3a6sl42e
 
-LTC: ltc1qjm2ltpdrc0ghecgdzsrx5qdyrxdwpsxtejv6vx
+LTC: ltc1qjm2ltpdrc0ghecgdzsrx5qdyrxdwpsxtejv6vx -->
 <!--
 **samtheory/samtheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

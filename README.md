@@ -17,6 +17,21 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
   <a href="https://www.instagram.com/sajjad.theory/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="sajjad.theory"/>
   </a>
+<!--   <a href="">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="sajjad.theory"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"  alt=""/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"  alt=""/>
+  </a> -->
+  <a href="">
+    <img src=""  alt=""/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"  alt="sajjad.theory"/>
+  </a>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/>
   </a>
@@ -25,11 +40,12 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=""/>
-  </a>
+  </a><br/>
   <a href="">
-    <img src=""  alt=""/>
+    <img src="https://www.codewars.com/users/samtheory/badges/large"  alt=""/>
   </a>
 </div>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <div align="center">

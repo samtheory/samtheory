@@ -1,9 +1,51 @@
-### Hi there 👋
-I'm a Fullstack developer based on Iran.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samtheory">
 
-[![Dart Badge](https://img.shields.io/badge/-Dart-04599C?style=for-the-badge&labelColor=2BB7F6&logo=dart&logoColor=04599C)](https://dart.dev) [![Flutter Badge](https://img.shields.io/badge/-Flutter-13B9FD?style=for-the-badge&labelColor=065A9D&logo=flutter&logoColor=13B9FD)](https://flutter.dev)
-![JavaScript](https://img.shields.io/badge/javascript-%23F1F523.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Overlock&duration=4000&size=30&color=1AF732&center=true&vCenter=true&lines=Hi+There+%F0%9F%91%8B;I'm+Front-End+Developer.;I'm+Mobile+Application+Developer.;Nice+to+meet+you!">
+  </a>
+</h1>
+
+Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
+
+💻 I love to experience new technologies  and learn anything about them <br/>
+📚 I’m currently learning Blockchain and Web3 with Solidity<br/>
+🧩 Enjoy solving puzzles and code challenges<br/>
+📫 How to reach me: samycrip10@gmail.com
+
+<div align="center">
+  <a href="https://www.instagram.com/sajjad.theory/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="sajjad.theory"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt=""/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=""/>
+  </a>
+  <a href="">
+    <img src=""  alt=""/>
+  </a>
+</div>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<br>
+<div align="center">
+  <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/-Dart-04599C?style=for-the-badge&labelColor=2BB7F6&logo=dart&logoColor=04599C"  alt=""/>
+  </a>
+   <a href="https://flutter.dev">
+    <img src="https://img.shields.io/badge/-Flutter-13B9FD?style=for-the-badge&labelColor=065A9D&logo=flutter&logoColor=13B9FD"  alt=""/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt=""/>
+  </a>
+ 
+</div>
+
+
 
 ## Github state
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samtheory&show_icons=true&theme=merko )

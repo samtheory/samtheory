@@ -56,6 +56,12 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
     <img src="https://img.shields.io/badge/-Flutter-13B9FD?style=for-the-badge&labelColor=065A9D&logo=flutter&logoColor=13B9FD"  alt=""/>
   </a>
   <a href="#">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"  alt=""/>
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"  alt=""/>
+  </a>
+  <a href="#">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt=""/>
   </a>
   <a href="#">
@@ -77,26 +83,17 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"  alt=""/>
   </a>
    <a href="#">
-    <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"  alt=""/>
-  </a>
-   <a href="#">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt=""/>
   </a>
      <a href="#">
     <img src="	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"  alt=""/>
   </a>
      <a href="#">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"  alt=""/>
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"  alt=""/>
   </a>
-     <a href="#">
-    <img src=""  alt=""/>
-  </a>
-     <a href="#">
-    <img src=""  alt=""/>
-  </a>
+   
  
 </div>
-
 
 
 ## Github state

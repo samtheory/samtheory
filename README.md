@@ -29,18 +29,18 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
   <a href="">
     <img src=""  alt=""/>
   </a>
-  <a href="">
+<!--   <a href="">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"  alt="sajjad.theory"/>
-  </a>
-  <a href="">
+  </a> -->
+  <a href="https://www.linkedin.com/in/sajjadalizadeh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/>
   </a>
-  <a href="">
+  <a href="https://leetcode.com/samtheory/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt=""/>
   </a>
-  <a href="">
+<!--   <a href="">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=""/>
-  </a><br/>
+  </a><br/> -->
   <a href="">
     <img src="https://www.codewars.com/users/samtheory/badges/large"  alt=""/>
   </a>

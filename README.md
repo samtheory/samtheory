@@ -38,9 +38,9 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
   <a href="https://leetcode.com/samtheory/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt=""/>
   </a>
-<!--   <a href="">
+  <a href="https://www.hackerrank.com/samycrip10">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=""/>
-  </a><br/> -->
+  </a><br/>
   
   <br/>
   

@@ -41,7 +41,10 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
 <!--   <a href="">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=""/>
   </a><br/> -->
-  <a href="">
+  
+  <br/>
+  
+  <a  href="https://www.codewars.com/users/samtheory">
     <img src="https://www.codewars.com/users/samtheory/badges/large"  alt=""/>
   </a>
 </div>

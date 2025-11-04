@@ -105,9 +105,11 @@ Hi, I'm Sajjad Alizadeh, Front-End / Flutter Developer based in Iran<br/>
 ## REACT NEXT>JS Pined Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samtheory&repo=alters_lab_nextjs_monorepo&show_icons=true&theme=merko)](https://github.com/samtheory/flutter_uikit_true_power)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samtheory&repo=React_Tailwind_Legendary_Template&show_icons=true&theme=merko)](https://github.com/samtheory/flutter_uikit_true_power)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samtheory&repo=next.js-heroui-base&show_icons=true&theme=merko)](https://github.com/samtheory/flutter_uikit_true_power)
 
 
-<!-- ## Donationg
+<!-- ## DonationgReact_Tailwind_Legendary_Template
 BTC: bc1qksa7p5h6cwx5l94pdpdmaurg5u7yaj3a6sl42e
 
 LTC: ltc1qjm2ltpdrc0ghecgdzsrx5qdyrxdwpsxtejv6vx -->
